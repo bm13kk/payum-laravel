@@ -1,2 +1,5 @@
+var/log
+!var/log/.githold
+
 //IDE
 .idea
