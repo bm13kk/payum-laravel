@@ -8,4 +8,4 @@
 [ ] how to make `nginx.access.log` as variable ?
 [ ] install programs
 
-[ ] add markdown localy
+[ ] add markdown locally

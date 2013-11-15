@@ -11,3 +11,6 @@ LOG_DIR="$ROOT_DIR/var/log"
 touch $LOG_DIR/nginx.access.log
 touch $LOG_DIR/nginx.error.log
 chown www-data $LOG_DIR/nginx.*
+
+#@todo copy /etc
+#@todo restart nginx
