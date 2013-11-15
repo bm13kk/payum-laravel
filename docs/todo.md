@@ -9,3 +9,11 @@
 [ ] install programs
 
 [ ] add markdown locally
+
+[ ] bootstrap - fuck.
+Problem - that **any** way of bootstrap should be included in first file =>
+file **do know** where he is and where bootstrap is.
+I see no ways in php, how to fix it. Fix it outside quite strange.
+I will add my own bootstrap. Will see, how it can help.
+Leave this problem on after laravel.
+[ ] looks like `bootstrap` - is one, that booting others - check it.
