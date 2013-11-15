@@ -1,5 +1,8 @@
+composer.lock
+
 var/log
 !var/log/.githold
+var/vendor
 
 //IDE
 .idea

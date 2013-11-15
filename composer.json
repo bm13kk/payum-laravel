@@ -1,0 +1,24 @@
+{
+    "name"        : "bm13kk/payum-lavarel-package-env",
+    "description" : "Environment for creating Payum package for Laravel.",
+    "keywords"    : ["framework", "laravel", "payum", "environment", "package", "bm13kk"],
+    "license"     : "MIT",
+
+    "require": {
+        "laravel/framework"          : "4.*@stable",
+        "payum/payum-laravel-bundle" : "*"
+    },
+
+    "repositories": [
+        {
+            "type" : "vcs",
+            "url"  : "https://github.com/bm13kk/PayumLaravelBundle.git"
+        }
+    ],
+
+    "config": {
+        "preferred-install" : "dist",
+        "vendor-dir"        : "var/vendor"
+    },
+    "minimum-stability": "dev"
+}
