@@ -7,3 +7,5 @@
 [ ] how make `/opt/formaPro/payum-lavarel/current/` variable in all conf?
 [ ] how to make `nginx.access.log` as variable ?
 [ ] install programs
+
+[ ] add markdown localy
