@@ -2,7 +2,7 @@ server {
     listen          80;
     server_name     payum-lavarel.l;
 
-    root            /opt/formaPro/payum-lavarel/current/laravel/public/;
+    root            /opt/formaPro/payum-lavarel/current/var/www/;
     error_log       /opt/formaPro/payum-lavarel/current/var/log/nginx.error.log;
     access_log      /opt/formaPro/payum-lavarel/current/var/log/nginx.access.log;
 
